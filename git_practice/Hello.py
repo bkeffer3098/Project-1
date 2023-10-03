@@ -1,3 +1,0 @@
-Welcome
-
-Add greet function
